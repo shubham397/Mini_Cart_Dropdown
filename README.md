@@ -1,10 +1,34 @@
-# 🛍️ Mini Cart Dropdown (React + Typescript)
+# 🛒 Mini Cart Dropdown (React + TypeScript)
 
-A modern, interactive product card component built with React. Perfect for e-commerce platforms to showcase products with engaging UI/UX features.
+A sleek and interactive **Mini Cart Dropdown** built using **React + TypeScript** — ideal for e-commerce platforms looking to enhance shopping cart UX.
 
-## 💡 Features
+---
 
-- 🖼️ **Product Image with Zoom-in on Hover**
-- 🛒 **“Add to Cart” and ❤️ “Wishlist” Icons on Hover**
-- 💰 **Price with Discount Badge**
-- ⭐ **Rating Stars Display**
+## ✨ Features
+
+🛒 Click-to-open **Cart Dropdown**  
+🖼️ Product thumbnails with name, price, and quantity  
+🧾 Subtotal calculation  
+📦 Clean, reusable component structure  
+🎯 Smooth toggle animation with pure **CSS3**
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ React
+- ⌨️ TypeScript
+- 🎨 CSS3 (no frameworks)
+- 🧪 Local cart state (no Redux/context)
+
+---
+
+## 📂 Folder Structure
+
+```
+src/
+├── components/
+│ └── CartDropdown.tsx
+│ └── CartDropdown.css
+├── App.tsx
+```

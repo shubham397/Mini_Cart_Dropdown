@@ -2,6 +2,8 @@
 
 A sleek and interactive **Mini Cart Dropdown** built using **React + TypeScript** — ideal for e-commerce platforms looking to enhance shopping cart UX.
 
+CodeSandbox URL - https://codesandbox.io/p/github/shubham397/Mini_Cart_Dropdown/main?import=true
+
 ---
 
 ## ✨ Features
